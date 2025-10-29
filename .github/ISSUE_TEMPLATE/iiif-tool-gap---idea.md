@@ -19,7 +19,7 @@ Explain what is missing or hard to do with current tools.
 Mention any partial solutions that exist.
 
 _Example:_  
-There is no easy way to crop and export IIIF regions between Exhibit.so and Scalar.
+There is no easy way to crop and export IIIF regions between the IIIF Imager Cropper and Scalar.
 
 ## 💡 Potential Solution or Project Idea
 Describe the idea for a tool, plugin, or prototype that could address the issue.  
