@@ -55,5 +55,5 @@ If you’re working on it during an event, add a comment like:
 > Claiming for [Event name / Date]
 
 ## 🧱 Card Movement Guide
-Use these columns to track progress:
+Use these columns in the [IIIF Tool Incubator](https://github.com/users/brittnylapierre/projects/3/views/1?pane=info) to track progress:
 Incoming → Proposed → Claimed → In Development → Completed → Needs Feedback
