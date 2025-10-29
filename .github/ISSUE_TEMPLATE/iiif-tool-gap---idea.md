@@ -43,7 +43,7 @@ _Example:_
 - Create a basic front-end for testing interoperability  
 
 ## 🔗 Related Tools and References
-Add any relevant links or examples:
+Add any relevant links or examples, e.g.:
 - [IIIF Presentation API 3.0](https://iiif.io/api/presentation/3.0/)
 - [Exhibit.so](https://exhibit.so)
 - [Scalar](https://scalar.me/anvc/)
